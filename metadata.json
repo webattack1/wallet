@@ -1,0 +1,5 @@
+{
+  "name": "Personal Crypto Wallet",
+  "description": "A sleek, dark-themed personal wallet for managing TON and USDT assets with simulated live market data.",
+  "requestFramePermissions": []
+}
